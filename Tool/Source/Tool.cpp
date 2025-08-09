@@ -240,7 +240,7 @@ namespace Utils {
 		proj.PrcFile       = proj.HdrDir / node["Prc"].As<std::string>("null");
 		proj.Defines       = LoadVector<std::string>(node["GlobalDefines"]);
 		proj.IncludeDirs   = LoadVector<std::filesystem::path>(node["GlobalIncludeDirs"]);
-		proj.LinkFiles     = LoadVector<std::filesystem::path>(node["GlobalIncludeDirs"]);;
+		proj.LinkFiles     = LoadVector<std::filesystem::path>(node["GlobalLinkFiles"]);;
 		proj.CompilerFlags = LoadVector<std::string>(node["GlobalCompilerFlags"]);
 		proj.LinkerFlags   = LoadVector<std::string>(node["GlobalLinkerFlags"]);
 		proj.Config        = LoadConfig(node["Configurations"]["CurrentConfigName"], node["CurrentConfigName"].As<std::string>());

@@ -33,6 +33,9 @@ namespace Nw {
 		int64_t     Code;
 	};
 
+	/// TODO: Add support for more compilers
+	/// - clang
+	/// - msvc
 	class Tool
 	{
 	public:

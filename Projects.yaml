@@ -7,31 +7,31 @@ Project1:
   SourceDir: Source
   BinaryDir: Binary
   Prc: null
-  GlobalDefines: []
-  GlobalIncludeDirs: []
-  GlobalLinkFiles: []
-  GlobalCompilerFlags: []
-  GlobalLinkerFlags: []
+  GlobalDefines:
+  GlobalIncludeDirs:
+  GlobalLinkFiles:
+  GlobalCompilerFlags:
+  GlobalLinkerFlags:
   CurrentConfigName: Release
   Configurations:
     Debug:
-      Defines: []
-      IncludeDirs: []
-      LinkFiles: []
-      CompilerFlags: []
-      LinkerFlags: []
+      Defines:
+      IncludeDirs:
+      LinkFiles:
+      CompilerFlags:
+      LinkerFlags:
       OptimLvl: 0
     Release:
-      Defines: []
-      IncludeDirs: []
-      LinkFiles: []
-      CompilerFlags: []
-      LinkerFlags: []
+      Defines:
+      IncludeDirs:
+      LinkFiles:
+      CompilerFlags:
+      LinkerFlags:
       OptimLvl: 2
     Distribution:
-      Defines: []
-      IncludeDirs: []
-      LinkFiles: []
-      CompilerFlags: []
-      LinkerFlags: []
+      Defines:
+      IncludeDirs:
+      LinkFiles:
+      CompilerFlags:
+      LinkerFlags:
       OptimLvl: 3
