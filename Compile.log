@@ -1,0 +1,10 @@
+|  |> cls
+|>-------------------------------------------------------------
+|> NwCompile C/C++ Gxx Compilation tool. Version: 0.0.1
+|
+|> Project -- Project1
+|> Compiling "TestProj1\Source\Main.cpp"
+|  |> g++ -c TestProj1\Source\Main.cpp -o TestProj1\Binary\Release\Main.obj -O0 -std=c++23  -I"TestProj1\\Header"      
+|> Linking...
+|  |> g++ TestProj1\Binary\Release\*.obj -o TestProj1\Project1.exe     
+|>-------------------------------------------------------------

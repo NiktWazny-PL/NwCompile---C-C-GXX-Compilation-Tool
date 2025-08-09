@@ -1,0 +1,37 @@
+Project1:
+  ProjectType: Normal
+  Gxx: g++
+  Standard: c++23
+  Cwd: TestProj1
+  HeaderDir: Header
+  SourceDir: Source
+  BinaryDir: Binary
+  Prc: null
+  GlobalDefines: []
+  GlobalIncludeDirs: []
+  GlobalLinkFiles: []
+  GlobalCompilerFlags: []
+  GlobalLinkerFlags: []
+  CurrentConfigName: Release
+  Configurations:
+    Debug:
+      Defines: []
+      IncludeDirs: []
+      LinkFiles: []
+      CompilerFlags: []
+      LinkerFlags: []
+      OptimLvl: 0
+    Release:
+      Defines: []
+      IncludeDirs: []
+      LinkFiles: []
+      CompilerFlags: []
+      LinkerFlags: []
+      OptimLvl: 2
+    Distribution:
+      Defines: []
+      IncludeDirs: []
+      LinkFiles: []
+      CompilerFlags: []
+      LinkerFlags: []
+      OptimLvl: 3

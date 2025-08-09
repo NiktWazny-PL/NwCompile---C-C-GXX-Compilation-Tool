@@ -1,1 +1,0 @@
-# NwCompile---C-C-GXX-Compilation-Tool
